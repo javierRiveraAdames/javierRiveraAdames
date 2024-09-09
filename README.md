@@ -1,4 +1,4 @@
--💻 Tech Stack: JavaScript, TypeScript, Python, Node.js, React, Angular, Nest.js, Express, Django, Uvicorn,FasApi, SQL, NoSQL, RESTful APIs, GraphQL, Docker, Kubernetes, AWS, Azure.
+-💻 Tech Stack: JavaScript, TypeScript, Python, Node.js, React, Angular, Nest.js.....
 -🛠️ Tools & Technologies: Git, Webpack, Babel, Jenkins, CI/CD, Agile methodologies.
 -🚀 Current Focus: Exploring the world of microservices, DevOps, and cloud-native applications.
 -📚 Lifelong Learner: Always up for learning new technologies and enhancing my skills. Currently diving deep into microfrontend.
