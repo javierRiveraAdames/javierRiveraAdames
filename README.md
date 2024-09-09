@@ -3,6 +3,8 @@
 -🚀 Current Focus: Exploring the world of microservices, DevOps, and cloud-native applications.
 -📚 Lifelong Learner: Always up for learning new technologies and enhancing my skills. Currently diving deep into microfrontend.
 -🤝 Open to Collaboration: I’m always open to contributing to meaningful open-source projects or collaborating on exciting tech initiatives.
+Esta es una línea con un salto de línea al final.  
+Y esta es la siguiente línea.
 
 <!---
 javierRiveraAdames/javierRiveraAdames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
