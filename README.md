@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Banner estilo Zenitsu -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Javier%20Rivera%20Adames&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffdd00,100:000000&height=200&section=header&text=⚡Javier%20Rivera%20Adames⚡&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Javier Rivera Adames</h1>
@@ -11,23 +11,18 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## ⚡ Tech Stack  
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=js,ts,go,python,dart" /><br>
-  <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=flutter,angular" /><br>
-  <!-- Infrastructure -->
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" /><br>
-  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgres,redis" /><br>
-  <!-- Data & Big Data -->
   <img src="https://skillicons.dev/icons?i=spark" />
-  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
-  <img src="https://img.shields.io/badge/Zookeeper-FF6F00?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/MapReduce-005571?style=for-the-badge&logo=apachehadoop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hive-ffdd00?style=for-the-badge&logo=apachehive&logoColor=000" />
+  <img src="https://img.shields.io/badge/Zookeeper-FFD700?style=for-the-badge&logo=apache&logoColor=000" />
+  <img src="https://img.shields.io/badge/MapReduce-333333?style=for-the-badge&logo=apachehadoop&logoColor=ffdd00" />
+  <img src="https://img.shields.io/badge/Cassandra-000000?style=for-the-badge&logo=apachecassandra&logoColor=FFD700" />
 </p>
 
 ---
@@ -44,8 +39,20 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javierRiveraAdames&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierRiveraAdames&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=javierRiveraAdames&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierRiveraAdames&layout=compact&title_color=FFD700&text_color=ffffff&bg_color=000000" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=javierRiveraAdames&theme=highcontrast&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/javierRiveraAdames/javierRiveraAdames/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -53,13 +60,13 @@
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/javierriveraadames" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000" />
   </a>
   <a href="https://twitter.com/javierriveraadames" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=FFD700" />
   </a>
   <a href="https://github.com/javierRiveraAdames" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=000" />
   </a>
 </p>
 
