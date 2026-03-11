@@ -59,7 +59,7 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/javierriveraadames" target="_blank">
+  <a href="https://www.linkedin.com/in/javier-r-495724221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000" />
   </a>
   <a href="https://twitter.com/javierriveraadames" target="_blank">
