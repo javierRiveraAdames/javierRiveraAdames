@@ -38,10 +38,6 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javierRiveraAdames&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierRiveraAdames&layout=compact&title_color=FFD700&text_color=ffffff&bg_color=000000" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=javierRiveraAdames&theme=highcontrast&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
